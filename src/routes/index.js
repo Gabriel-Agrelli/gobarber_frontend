@@ -8,7 +8,7 @@ import SignUp from '~/pages/SignUp';
 import Dashboard from '~/pages/Dashboard';
 import Profile from '~/pages/Profile';
 
-import error404 from '~/pages/errors';
+import error404 from '~/pages/errors/index_404';
 
 export default function Routes() {
   return (
